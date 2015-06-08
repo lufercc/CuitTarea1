@@ -10,6 +10,20 @@ namespace libraryCuit
     {
         static void Main(string[] args)
         {
+            store store = new store();
+
+            Book book1 = new Book();
+            book1.title = "el libro";
+            CD cd1 = new CD();
+
+            store.addItem(book1);
+            store.addItem(cd1);
+
+            store.showall();
+
+            Console.ReadKey();
+
+
         }
     }
 }

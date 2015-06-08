@@ -1,1 +1,6 @@
 C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\libraryCuit\bin\Debug\libraryCuit.exe.config
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\libraryCuit\bin\Debug\libraryCuit.exe
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\libraryCuit\bin\Debug\libraryCuit.pdb
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\libraryCuit\obj\Debug\libraryCuit.csprojResolveAssemblyReference.cache
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\libraryCuit\obj\Debug\libraryCuit.exe
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\libraryCuit\obj\Debug\libraryCuit.pdb
