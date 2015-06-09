@@ -16,12 +16,27 @@ namespace libraryCuit
             itemsales.Add(Isales);
         }
 
-        public void showall()
+        public List<ItemSale> showall()
         {
+            //foreach (var item in itemsales)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            return itemsales;
+        }
+
+        public List<ItemSale> returnItem(string title)
+        {
+            List<ItemSale> res = new List<ItemSale>();
             foreach (var item in itemsales)
             {
-                Console.WriteLine(item);
+                if (item.title == title)
+                {
+                    res.Add(item);
+                }
             }
+            return res;
         }
+
     }
 }
