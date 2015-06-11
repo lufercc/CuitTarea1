@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace libraryCuit
 {
-    class Book : ItemSale
+    public class Book : ItemSale
     {
         public int pagenumber { get; set; }
         public string author { get; set; }

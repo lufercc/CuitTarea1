@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace libraryCuit
 {
-    class store
+    public class Store
     {
         public List<ItemSale> itemsales = new List<ItemSale>();
 
@@ -18,23 +18,24 @@ namespace libraryCuit
 
         public List<ItemSale> showall()
         {
-            //foreach (var item in itemsales)
-            //{
-            //    Console.WriteLine(item);
-            //}
+            foreach (var item in itemsales)
+            {
+                Console.WriteLine(item);
+            }
             return itemsales;
         }
 
-        public List<ItemSale> returnItem(string title)
+        public ItemSale returnItem(string title)
         {
-            List<ItemSale> res = new List<ItemSale>();
+            ItemSale res = null; 
             foreach (var item in itemsales)
             {
                 if (item.title == title)
                 {
-                    res.Add(item);
+                    res = item;
                 }
             }
+
             return res;
         }
 

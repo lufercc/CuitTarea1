@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace libraryCuit
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            store store = new store();
+            Store store = new Store();
 
             Book book1 = new Book();
             book1.title = "el libro";

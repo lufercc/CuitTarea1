@@ -1,0 +1,7 @@
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\UnitTestProject1\bin\Debug\libraryCuit.exe
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\UnitTestProject1\bin\Debug\libraryCuit.pdb
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\luiscachi\Desktop\QADEV03\cuit\proyectos\CuitTarea1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

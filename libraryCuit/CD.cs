@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace libraryCuit
 {
-    class CD : ItemSale
+    public class CD : ItemSale
     {
         public int durationminutes { get; set; }
         public string musicoBand { get; set; }
